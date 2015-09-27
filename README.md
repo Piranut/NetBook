@@ -1,3 +1,3 @@
 # NetBook
-Back-end web development
+E-commerce web application for selling technical and design books
 
